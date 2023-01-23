@@ -1,3 +1,3 @@
 import exercici1_A as Bader
 
-print(Bader.edat(2001))
+print(Bader.ed(2001))

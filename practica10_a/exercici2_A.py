@@ -1,4 +1,4 @@
-
+#diccionario donde vemos su longitud, sus valores, y eliminamos el ultimo valor
 dictionary = {'ordinador':1000, 'tablet':200, 'televisor':780,
                'telefòn':230,'funda':20,'carregador':30,'protector':15}
 
